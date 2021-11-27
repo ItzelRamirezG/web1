@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+.body{
+    background-color: #1ABC9C;
+}
+.tabladentro{
+    background-color: #00FFFC;
+
+}
+.tablamorada{
+    background-color: #9B59B6;
+}
+
+.bordelineas{
+    border-style: dashed; border-width: 3px; 
+    border-color: white;
+}
+.bordeblanco{
+    border:white 3px solid;
+    
+}
+.borderojo{
+    
+        border-style: dashed; border-width: 3px; 
+        border-color: red;
+        border-collapse: separate;
+        border-spacing: 10px 5px;
+}
+.textocentrado{
+   text-align: center; 
+}
+.centrartabla{
+    margin: 0 auto;
+}
+.div{
+    display: grid;
+    
+    }
+.cuadrado{
+        width: 100%;
+    }
+.textoblanco{
+    color:white;
+}
+.celda50xp{
+    width: 50px;
+}
+.celda{
+    height:10px;
+}
