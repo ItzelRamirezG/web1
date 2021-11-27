@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+/*Colores de fondo*/
+.body{
+    background-color: #1ABC9C;
+}
+.fondoverde{
+background-color:#2ECC71;}
+.fondorojo{
+    background-color: #E74C3C;
+}
+.fondomorado{
+    background-color: #9B59B6;
+}
+/*Borde*/
+.bordeblanco{
+    border:3px solid white;
+    padding: 5px;
+}
+
+/*Tamanios*/
+.celda20{
+    width: 20%;
+    height: 35px;
+}
+.celda80{
+    width: 80%;
+    height: 35px;
+}
+.celda70{
+    width: 70%;
+    height: 400px;
+}
+.celda30{
+    width: 30%;
+    height: 400px;
+}
+.sizesquare{
+    width: 100%;
+}
+/*Fuentes*/
+.sizeletter{
+    font-size: 25px;
+    font-style:normal;
+}
+.textocentrado{
+    text-align: center;
+}
+.letrablanca{
+    color: white;
+}
